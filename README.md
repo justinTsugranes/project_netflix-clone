@@ -1,5 +1,7 @@
 # Build a Netflix Landing Page Clone with HTML, CSS & JS
 
+View the [Live Demo](https://netflix-clone-traversy.netlify.app/) deployed through Netlify
+
 This is the project from [Travery Media](https://www.youtube.com/c/TraversyMedia)
 
 Video to the tutorial is located [here](https://www.youtube.com/watch?v=P7t13SGytRk&t=22s)
